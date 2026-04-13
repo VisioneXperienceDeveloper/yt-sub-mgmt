@@ -1,0 +1,9 @@
+.env
+.DS_Store
+*.md
+^README.md
+/GUIDES
+/dist
+dist.zip
+/node_modules
+manifest.json
